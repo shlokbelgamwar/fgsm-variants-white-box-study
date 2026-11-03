@@ -4,7 +4,7 @@ Code and results accompanying our paper published at **ICICT 2024**.
 
 **Aarti Lad · Ruchi Bhale · Shlok Belgamwar · Madhuri Wakode**
 
-[Paper](https://doi.org/10.1109/ICICT60155.2024.10544606) · [IEEE Xplore](https://ieeexplore.ieee.org/document/10544606) · [DOI](https://doi.org/10.1109/ICICT60155.2024.10544606)
+[Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10544606)
 
 ## Overview
 
