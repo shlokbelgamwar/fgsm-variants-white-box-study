@@ -1,0 +1,7 @@
+iteration,mi_top1_class,mi_top1_confidence_pct,i_top1_class,i_top1_confidence_pct,source
+1,Persian cat,99.9715,Persian cat,99.9715,"Final paper Table II, page 4; transcription, NOT a rerun"
+2,Persian cat,99.657,Persian cat,99.2843,"Final paper Table II, page 4; transcription, NOT a rerun"
+3,Persian cat,96.9415,Persian cat,80.9636,"Final paper Table II, page 4; transcription, NOT a rerun"
+4,Persian cat,82.9145,Tiger cat,35.9507,"Final paper Table II, page 4; transcription, NOT a rerun"
+5,Persian cat,49.2908,Persian cat,63.5408,"Final paper Table II, page 4; transcription, NOT a rerun"
+6,Tabby,30.5566,Egyptian cat,38.7488,"Final paper Table II, page 4; transcription, NOT a rerun"

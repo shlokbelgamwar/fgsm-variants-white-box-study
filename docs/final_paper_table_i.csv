@@ -1,0 +1,5 @@
+epsilon_as_printed,vanilla_top1_class,vanilla_top1_confidence_pct,targeted_top1_class,targeted_top1_confidence_pct,source
+0.025,Egyptian cat,38.5972,Tiger cat,38.6791,"Final paper Table I, page 4; transcription, NOT a rerun"
+0.05,Egyptian cat,39.2992,Tiger cat,41.6954,"Final paper Table I, page 4; transcription, NOT a rerun"
+0.075,Tiger cat,40.0466,Tiger cat,49.3392,"Final paper Table I, page 4; transcription, NOT a rerun"
+0.1,Tiger cat,47.7527,Tiger cat,56.1532,"Final paper Table I, page 4; transcription, NOT a rerun"
